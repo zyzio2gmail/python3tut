@@ -1,1 +1,1 @@
-# python3tut
+# test application written in python
